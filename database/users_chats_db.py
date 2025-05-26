@@ -116,3 +116,4 @@ class UserDatabase:
 
 # Usage
 user_db = UserDatabase(DATABASE_NAME)
+db = user_db
